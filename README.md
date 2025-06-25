@@ -32,12 +32,11 @@ ask "show all listening ports"
 ## 🚀 Installation
 
 1. **Save the Script**
-   Save the `askgpt.sh` file to a bin directory:
+   Run this one-liner in your terminal:
 
    ```bash
-   mkdir -p ~/.local/bin
-   curl -o ~/.local/bin/askgpt.sh https://raw.githubusercontent.com/fifthseason-ai/AskGPT-Terminal-Command-Assistant/main/askgpt.sh
-   chmod +x ~/.local/bin/askgpt.sh
+  mkdir -p ~/.local/bin && curl -o ~/.local/bin/askgpt.sh https://raw.githubusercontent.com/fifthseason-ai/AskGPT-Terminal-Command-Assistant/main/askgpt.sh && chmod +x ~/.local/bin/askgpt.sh
+
    ```
 
 2. **Create an Alias**
