@@ -36,7 +36,7 @@ ask "show all listening ports"
 
    ```bash
    mkdir -p ~/.local/bin
-   curl -o ~/.local/bin/askgpt.sh https://raw.githubusercontent.com/yourusername/askgpt/main/askgpt.sh
+   curl -o ~/.local/bin/askgpt.sh https://raw.githubusercontent.com/fifthseason-ai/AskGPT-Terminal-Command-Assistant/main/askgpt.sh
    chmod +x ~/.local/bin/askgpt.sh
    ```
 
